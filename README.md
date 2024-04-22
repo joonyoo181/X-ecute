@@ -25,6 +25,9 @@ Our client frontend is built using Next.js and Tailwind CSS to replicate X’s f
 </p>
 
 # [X-ecute Language Manual and Reference.pdf](https://github.com/joonyoo181/X-ecute/files/15067966/X-ecute_.Language.Manual.and.Reference.pdf)
-<p align="center">
-  <img width="600" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/3002ef59-0e5d-4f9e-9f57-2d4f85eb07d2">
-</p
+<a align="center" download="https://github.com/joonyoo181/X-ecute/files/15067966/X-ecute_.Language.Manual.and.Reference.pdf" href="https://github.com/joonyoo181/X-ecute/files/15067966/X-ecute_.Language.Manual.and.Reference.pdf" title="X-ecute Manual">
+  <p align="center">
+    <img width="600" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/3002ef59-0e5d-4f9e-9f57-2d4f85eb07d2">
+  </p
+</a>
+
