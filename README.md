@@ -1,3 +1,5 @@
+![X-ecute](https://github.com/joonyoo181/X-ecute/assets/59751754/8d2f9c19-46ce-4c97-b8e4-ce849bb1ff2e)
+
 **Top 5 winner of X Developer Challenge 2024**
 
 A functional programming language with a pre-defined typing system, embeddable in X's posts to generate dynamic content. Designed to be user-friendly and intuitive for users without prior coding experience while being sophisticated enough to handle intricate logic.
