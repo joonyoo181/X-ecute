@@ -1,4 +1,6 @@
-![X-ecute](https://github.com/joonyoo181/X-ecute/assets/59751754/8d2f9c19-46ce-4c97-b8e4-ce849bb1ff2e)
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/64faf18d-4a15-4e83-9787-048df157ce3e">
+</p>
 
 **Top 5 winner of X Developer Challenge 2024**
 
