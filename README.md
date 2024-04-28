@@ -5,9 +5,12 @@
 **Top 5 winner of 𝕏 Developer Challenge 2024**
 
 A scripting language with a pre-defined typing system, embeddable in 𝕏's posts to generate dynamic content. Designed to be user-friendly and intuitive for users without prior coding experience while being sophisticated enough to handle intricate logic.
-<p align="center">
-  <img width="358" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/99fd8899-38b6-4f2e-890b-a971a0f608af">
-</p>
+<div align="center" style="display: flex; justify-content: center;">
+  <img width="400" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/99fd8899-38b6-4f2e-890b-a971a0f608af">
+  <a target="_blank" href="https://twitter.com/xDaily/status/1782190630208180378f" title="Top 5 Winners ">
+    <img height="400" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/cf6895df-e284-41ed-a6d5-8f211c28a226">
+  </a>
+</div>
 
 # Problem: Static Content
 Currently, posts on X.com are static, meaning they remain unchanged after publication and cannot adapt to different audiences or evolving contexts, such as increased engagement. We aim to develop a feature that allows posts to be dynamic, enabling a single post to fulfill multiple purposes.
@@ -25,7 +28,7 @@ Our client frontend is built using Next.js and Tailwind CSS to replicate 𝕏’
 </p>
 
 # [X-ecute Language Manual and Reference](https://github.com/joonyoo181/X-ecute/files/15067966/X-ecute_.Language.Manual.and.Reference.pdf)
-<a align="center" download="https://github.com/joonyoo181/X-ecute/files/15067966/X-ecute_.Language.Manual.and.Reference.pdf" href="https://github.com/joonyoo181/X-ecute/files/15067966/X-ecute_.Language.Manual.and.Reference.pdf" title="X-ecute Manual">
+<a align="center" target="_blank" href="https://github.com/joonyoo181/X-ecute/files/15067966/X-ecute_.Language.Manual.and.Reference.pdf" title="X-ecute Manual">
   <p align="center">
     <img width="600" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/3002ef59-0e5d-4f9e-9f57-2d4f85eb07d2">
   </p
