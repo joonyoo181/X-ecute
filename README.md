@@ -6,7 +6,7 @@
 
 A scripting language with a pre-defined typing system, embeddable in 𝕏's posts to generate dynamic content. Designed to be user-friendly and intuitive for users without prior coding experience while being sophisticated enough to handle intricate logic.
 <p align="center">
-  <img width="400" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/99fd8899-38b6-4f2e-890b-a971a0f608af">
+  <img width="500" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/99fd8899-38b6-4f2e-890b-a971a0f608af">
 </p>
 
 # Problem: Static Content
