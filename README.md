@@ -7,7 +7,7 @@
 A scripting language with a pre-defined typing system, embeddable in 𝕏's posts to generate dynamic content. Designed to be user-friendly and intuitive for users without prior coding experience while being sophisticated enough to handle intricate logic.
 <div align="center" style="display: flex; justify-content: center;">
   <img width="400" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/99fd8899-38b6-4f2e-890b-a971a0f608af">
-  <a target="_blank" href="https://twitter.com/xDaily/status/1782190630208180378f" title="Top 5 Winners ">
+  <a target="_blank" href="https://twitter.com/xDaily/status/1782190630208180378" title="Top 5 Winners ">
     <img height="400" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/cf6895df-e284-41ed-a6d5-8f211c28a226">
   </a>
 </div>
