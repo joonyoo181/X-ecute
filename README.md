@@ -18,7 +18,7 @@ To enable dynamic posts, we introduced integrated code blocks within the posts t
 # Motivation
 We aimed to democratize the power of computer programming for all users of X by creating a simplified coding language. This language strikes a balance between being intuitive enough for anyone to experiment with enhancing their posts and being sophisticated enough to handle intricate logic. This fusion results in a feature that empowers every user to craft an experience that precisely aligns with their vision of the interaction between the poster and the reader.
 
-# [Implementation](https://github.com/joonyoo181/X-ecute/files/15069277/X-ecute_.Language.Manual.and.Reference.pdf)
+# Implementation
 Our client frontend is built using Next.js and Tailwind CSS to replicate 𝕏’s feed page and facilitate user-generated interactivity. On the backend, we employ Flask, Tweepy, and Grok to handle server-side operations. The compiler, which includes a lexer and code generator, is developed in Python and integrated within the Flask app for simplicity in file management.
 <p align="center">
   <img width="600" alt="image" src="https://github.com/joonyoo181/X-ecute/assets/59751754/361326dd-3dad-4a00-b9ec-62a50326cc1f">
